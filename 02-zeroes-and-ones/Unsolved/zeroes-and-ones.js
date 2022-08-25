@@ -5,18 +5,6 @@
 
 
 var zeroesAndOnes = function(str) {
-    let zeroes = 0;
-    let ones = 0;
-    for (let i = 0; i < str.length; i++) {
-        let num = str[i]
-
-        if (num === '0') {
-            ++zeroes;
-        } else if (num === '1') {
-            ++ones;
-        }
-    }
-    return zeroes === ones;
 };
 
   

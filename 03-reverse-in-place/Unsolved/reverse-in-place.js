@@ -5,3 +5,7 @@ const reverseInPlace = (arr) => {
  
 };
 
+// if you do above, you earned it
+const reverseInplaceNOWUSETHEREVERSEMETHODYOUINSANEPERSON = (arr) => {
+
+}
